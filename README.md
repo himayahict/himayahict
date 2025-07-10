@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Himaya Imbulana</h1>
+<h1 align="center">Hi , I'm Himaya Imbulana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <h3 align="center">A passionate Junior Web Developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=himaya&label=Profile%20views&color=0e75b6&style=flat" alt="himaya" /> </p>
