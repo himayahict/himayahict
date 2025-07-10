@@ -4,7 +4,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=himaya&label=Profile%20views&color=0e75b6&style=flat" alt="himaya" /> </p>
 
----
+
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 - 🌱 I’m currently learning **Full Stack Web Development Course**
 
