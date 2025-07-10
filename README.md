@@ -25,8 +25,8 @@
 
 <h3 align="left"></h3>
 <p align="left">
-<a href="https://linkedin.com/in/himaya imbulana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himaya imbulana" height="30" width="40" /></a>
-<a href="https://fb.com/himaya imbulana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himaya imbulana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/himaya imbulana" target="blank"><img align="center" src="https://www.linkedin.com/in/himaya-imbulana-039680303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="himaya imbulana" height="30" width="40" /></a>
+<a href="https://fb.com/himaya imbulana" target="blank"><img align="center" src="https://www.facebook.com/share/14FnC9Y62EZ/?mibextid=qi2Omg" alt="himaya imbulana" height="30" width="40" /></a>
 </p>
 
 ---
